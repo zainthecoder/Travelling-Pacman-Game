@@ -6,6 +6,7 @@
 ###### There are N cities in the game.
 ###### The player have to visit every city in min number of steps.
 ###### The player can move in 4 direction: up, Down, Left, and Right".
+###### The game has 9 different levels.
 
 ## Giphy
 
