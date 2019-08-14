@@ -3,15 +3,15 @@
 
 # Travelling-Pacman-Game
 
-###There are N cities in the game.
-###The player have to visit every city in least steps.
-###The player can move in 4 direction: up, Down, Left, and Right".
+###### There are N cities in the game.
+###### The player have to visit every city in least steps.
+###### The player can move in 4 direction: up, Down, Left, and Right".
 
-##Giphy
+## Giphy
 
 ![GIF](https://user-images.githubusercontent.com/23193284/63014266-c37dd700-beab-11e9-866a-99b14497ad5a.gif)
 
-##ScreenShots
+## ScreenShots
 
 ![pic1](https://user-images.githubusercontent.com/23193284/63014208-a943f900-beab-11e9-939f-c5081de0f18b.PNG)
 
