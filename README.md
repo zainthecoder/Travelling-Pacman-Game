@@ -3,15 +3,25 @@
 
 # Travelling-Pacman-Game
 
->1.There are N cities in the game.
->2.The player have to visit every city in least steps.
->3.The player can move in 4 direction: up, Down, Left, and Right".
+-There are N cities in the game.
+-The player have to visit every city in least steps.
+-The player can move in 4 direction: up, Down, Left, and Right".
+
+##Giphy##
+
+![GIF](https://user-images.githubusercontent.com/23193284/63014266-c37dd700-beab-11e9-866a-99b14497ad5a.gif)
+
 
 <img src="https://miro.medium.com/max/1400/1*U7qkYQZu_BlVIne35HJ5JQ.png">
 
-**ScreenShots**
+##ScreenShots##
 
-<img src="https://drive.google.com/file/d/1sVD0M67tORKFmVDdmGhH5cmcTAwnuSuM/view?usp=sharing">
+![pic1](https://user-images.githubusercontent.com/23193284/63014208-a943f900-beab-11e9-939f-c5081de0f18b.PNG)
+![pic2](https://user-images.githubusercontent.com/23193284/63014234-b3fe8e00-beab-11e9-9917-c5df7746d664.PNG)
+![pic4](https://user-images.githubusercontent.com/23193284/63014249-bb259c00-beab-11e9-826b-9dde79907f29.PNG)
+
+<img src="https://miro.medium.com/max/1400/1*U7qkYQZu_BlVIne35HJ5JQ.png">
+
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![Dependency Status](http://img.shields.io/gemnasium/badges/badgerbadgerbadger.svg?style=flat-square)](https://gemnasium.com/badges/badgerbadgerbadger) [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://coveralls.io/r/badges/badgerbadgerbadger) [![Code Climate](http://img.shields.io/codeclimate/github/badges/badgerbadgerbadger.svg?style=flat-square)](https://codeclimate.com/github/badges/badgerbadgerbadger) [![Github Issues](http://githubbadges.herokuapp.com/badges/badgerbadgerbadger/issues.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger/issues) [![Pending Pull-Requests](http://githubbadges.herokuapp.com/badges/badgerbadgerbadger/pulls.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger/pulls) [![Gem Version](http://img.shields.io/gem/v/badgerbadgerbadger.svg?style=flat-square)](https://rubygems.org/gems/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [![Badges](http://img.shields.io/:badges-9/9-ff6799.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger)
 
 - For more on these wonderful ~~badgers~~ badges, refer to <a href="http://badges.github.io/badgerbadgerbadger/" target="_blank">`badgerbadgerbadger`</a>.
